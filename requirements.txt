@@ -1,3 +1,0 @@
-pyTelegramBotAPI
-python-barcode
-Pillow
